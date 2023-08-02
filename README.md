@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Maksym
+- 👋 Hi, I’m Maksym
 - 👀 I’m interested in IT area
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on some learning courses or paid intership
+- 🌱 I’m currently on course FullStack Developer
 - 📫 How to reach me telegram @MaksymDom
 
 <!---
